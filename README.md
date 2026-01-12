@@ -5,7 +5,7 @@ A backend application for managing a list of blogs. Built as part of the Full St
 ## Tech Stack
 * **Node.js** & **Express**
 * **MongoDB** (Mongoose)
-* **Jest** & **Supertest** (for unit/integration testing)
+* **node:test** & **Supertest** (for unit/integration testing)
 * **ESLint** (for code quality)
 
 ## Getting Started
