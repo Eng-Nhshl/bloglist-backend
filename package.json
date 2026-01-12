@@ -1,0 +1,25 @@
+{
+  "name": "bloglist",
+  "version": "1.0.0",
+  "description": "bloglist backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "test": "node --test",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix"
+  },
+  "author": "engnhshl",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "mongoose": "^9.1.2"
+  },
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^5.7.0",
+    "eslint": "^9.39.2",
+    "globals": "^17.0.0"
+  }
+}
