@@ -128,5 +128,3 @@ This project is part of the **Full Stack Open** coursework.
 [https://github.com/Eng-Nhshl/bloglist-backend](https://github.com/Eng-Nhshl/bloglist-backend)
 
 **Author:** Eng-Nhshl
-
-```
